@@ -2,7 +2,7 @@
 Utilizing Machine Learning to create a 5 man team of bots to compete with real world players.
   
 ## Purpose
-  >>> Inspire learning new algorithms for Machine Learning using games.<br/>
+  > Inspire learning new algorithms for Machine Learning using games.<br/>
   >>> Help those getting started using GitHub, Python or is new to Machine Learning to be able to be involved in a project that is hands-on and fun to play with.<br/>
   >>> Expand algorithms used in bots for video games.<br/>
   >>> Research how to create AI Bots that can interact together as a team.<br/>
